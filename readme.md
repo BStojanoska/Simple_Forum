@@ -4,7 +4,7 @@
     `git clone git@github.com:BStojanoska/Simple_Forum.git`
 
 2. Run:
-    composer install
+    `composer install`
 
 3. Create a database and rename the .env.example file to .env, then connect the DB
 
