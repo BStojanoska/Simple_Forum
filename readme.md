@@ -13,4 +13,8 @@
     php artisan key:generate
     php artisan migrate
     php artisan db:seed
+    php artisan storage:link
     ```
+
+5. To serve the app run:
+    `php artisan serve`
